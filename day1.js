@@ -1,7 +1,6 @@
 //This console log is used for printing the values 
 //Javascript rims the code line by line 
 
-const { Console } = require("console")
 
 console.log("Hello World")
 

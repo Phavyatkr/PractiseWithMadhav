@@ -9,4 +9,4 @@ Learnt about node . Node is used to execute the code in the VS Code
 Learnt about Variables . Let, Const, Var 
 Learnt how to commit the code to github
 
-Will continue tomorrow bye good night 
+Will continue tomorrow  bye good night 
